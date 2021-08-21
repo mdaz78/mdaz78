@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<a href="https://github-readme-stats.vercel.app/api?username=mdaz78&show_icons=true&count_private=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdaz78&show_icons=true&count_private=true&theme=radical" width="50%" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaz78&count_private=true&theme=radical&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaz78&count_private=true&theme=radical&layout=compact" width="42%" />
+</a>
+
+
 <!--
 **mdaz78/mdaz78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
