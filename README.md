@@ -71,7 +71,7 @@ Currently contributing to the development and enhancement of scalable, high-perf
 
 ---
 
-### 🔥 GitHub Stats
+<!-- ### 🔥 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/mdaz78">
@@ -82,7 +82,7 @@ Currently contributing to the development and enhancement of scalable, high-perf
   </a>
 </p>
 
----
+--- -->
 
 ### 📌 Featured Projects
 
