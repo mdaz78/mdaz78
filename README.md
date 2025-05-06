@@ -17,9 +17,9 @@
 
 ### 🚀 About Me
 
-I’m a **Senior Software Engineer** at **Cimpress India Pvt Ltd**, with around 7 years of experience building scalable, elegant, and user-focused web applications. I’m deeply invested in the craft of software engineering—from fast frontends to reliable backends, with a product-driven mindset.
+I’m a **Senior Software Engineer** at **Cimpress**, with around 7 years of experience building scalable, elegant, and user-focused web applications. I’m deeply invested in the craft of software engineering—from fast frontends to reliable backends, with a product-driven mindset.
 
-- 🧠 Strong in **React**, **Next.js**, **TypeScript**, **NestJS**, and **Ruby on Rails**
+- 🧠 Strong in **React**, **Next.js**, **TypeScript**, **Node**, **Java**, and **Ruby on Rails**
 - 🔭 Previously built AI productivity tools and internal platforms used by 10k+ users
 - 🛠 Skilled at building microservices, CI/CD pipelines, and full-stack features end-to-end
 - 🎯 Passionate about clean UX, performance tuning, and delivering business impact
@@ -29,60 +29,47 @@ I’m a **Senior Software Engineer** at **Cimpress India Pvt Ltd**, with around 
 
 ### 🧰 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Ruby, Java, Go, Python  
+**Languages:** JavaScript, TypeScript, Ruby, Java  
 **Frontend:** React, Next.js, Redux, TailwindCSS, SASS  
-**Backend:** Nest.js, Express, Ruby on Rails  
+**Backend:** Nest.js, Express, Ruby on Rails, Spring  
 **Databases:** PostgreSQL, MongoDB, Redis  
-**UX & Design:** Figma, Accessibility, UI/UX principles, Design Systems  
-**Tools:** Docker, Git  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, CloudFront), Docker, Git  
+**UX & Design:** Figma, Accessibility, UI/UX principles, Design Systems
 
 ---
 
 ### 💼 Experience
 
-**Senior Software Engineer**  
-*Cimpress India Pvt Ltd* — *Present*  
-Currently contributing to the development and enhancement of scalable, high-performance systems supporting Cimpress’s mass customization platform.
+#### Senior Software Engineer  
+**Cimpress (Remote)** — *Present*  
+Contributing to scalable systems powering the Cimpress mass customization platform, focusing on performance, usability, and maintainability.
 
-**Software Engineer**  
-*Proximity Labs (Remote)* — *Mar 2021 – Mar 2023*  
-- Built and launched **Thread.ai**, an AI knowledge co-pilot, increasing dev productivity by 25% and reducing costs by 30%.  
-- Developed **Crew.ai**, an automated workplace management tool with 500+ onboarded users.  
-- Delivered a dynamic static site builder for a Fintech firm enabling the Marketing team to update without developer support.  
-- **Stack:** React, Next.js, Nest.js, Tailwind, TypeScript  
+#### Software Engineer  
+**Proximity Labs (Remote)** — *Mar 2021 – Mar 2023*  
+- Built **Thread.ai**, an AI knowledge co-pilot that improved developer productivity by 25%.  
+- Developed **Crew.ai**, an automated team management tool adopted by 500+ users.  
+- Created a no-code site builder for Fintech marketing, enabling non-dev content updates.  
+- **Stack:** React, Next.js, Nest.js, TailwindCSS, TypeScript
 
-**Software Development Engineer II**  
-*IDfy (Remote)* — *Jun 2020 – Mar 2021*  
-- Developed a secure document viewer and human workflow platforms using Elixir, Phoenix, and React.  
-- Enabled accurate resolution of OCR errors, increasing company revenue by over 5%.  
-- **Stack:** Elixir, Phoenix, Redis, RabbitMQ, React  
+#### Software Development Engineer II  
+**IDfy (Remote)** — *Jun 2020 – Mar 2021*  
+- Engineered secure document viewer and OCR resolution workflow tools.  
+- Helped increase revenue by 5% by improving review workflows.  
+- **Stack:** Elixir, Phoenix, Redis, RabbitMQ, React
 
-**Front End Engineer**  
-*IoT Ready, Bangalore* — *Oct 2019 – May 2020*  
-- Created an SPA using Elm for client engagement, boosting their customer base by 15%.  
-- Developed an internal knowledge-sharing tool inspired by StackOverflow & TIL.  
-- **Stack:** Elm, HTML, CSS  
+#### Front End Engineer  
+**IoT Ready, Bangalore** — *Oct 2019 – May 2020*  
+- Built a performant SPA using Elm, boosting customer engagement by 15%.  
+- Delivered an internal StackOverflow-inspired knowledge tool.  
+- **Stack:** Elm, HTML, CSS
 
-**Software Development Engineer**  
-*IDfy, Mumbai* — *May 2018 – Jun 2019*  
-- Built a scraping engine and migrated OCR logic from Python to Go for significant performance gains.  
-- Led the migration from monolith to microservices with Elixir/Phoenix, reducing server costs by 30–40%.  
-- **Stack:** Elixir, Phoenix, Go, Python, React, RabbitMQ
+#### Software Development Engineer  
+**IDfy, Mumbai** — *May 2018 – Jun 2019*  
+- Migrated OCR logic from Python to Go, enhancing processing speed.  
+- Led microservices migration saving 30–40% in server costs.  
+- **Stack:** Go, Elixir, Phoenix, Python, React
 
 ---
-
-<!-- ### 🔥 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/mdaz78">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdaz78&show_icons=true&count_private=true&theme=radical" />
-  </a>
-  <a href="https://github.com/mdaz78">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaz78&layout=compact&theme=radical" />
-  </a>
-</p>
-
---- -->
 
 ### 📌 Featured Projects
 
@@ -113,8 +100,6 @@ I'm currently brushing up and deepening my skills in:
 
 ### ⚡ Fun Facts
 
-- I once migrated a monolith to microservices, saving 40% in infra costs  
-- Built a FinTech marketing site where non-devs could update content without touching code  
-- Obsessed with performance, DX, and beautiful UI/UX  
-
----
+- Migrated a monolith to microservices, saving 40% in infra costs  
+- Built a FinTech marketing site where non-devs could edit content with no code  
+- Obsessively focused on performance, DX, and beautiful UI/UX
