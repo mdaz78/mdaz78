@@ -19,7 +19,7 @@
 
 I’m a **Senior Software Engineer** at **Cimpress**, with around 7 years of experience building scalable, elegant, and user-focused web applications. I’m deeply invested in the craft of software engineering—from fast frontends to reliable backends, with a product-driven mindset.
 
-- 🧠 Strong in **React**, **Next.js**, **React Native**, **TypeScript**, **Node**, **Go**, **Java**, and **Ruby on Rails**
+- 🧠 Strong in **React**, **Next.js**, **React Native**, **TypeScript**, **Node**, **Go Lang**, **Java**, and **Ruby on Rails**
 - 🔭 Previously built AI productivity tools and internal platforms used by 10k+ users
 - 🛠 Skilled at building microservices, CI/CD pipelines, and full-stack features end-to-end
 - 🎯 Passionate about clean UX, performance tuning, and delivering business impact
@@ -29,8 +29,8 @@ I’m a **Senior Software Engineer** at **Cimpress**, with around 7 years of exp
 
 ### 🧰 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Ruby, Java  
-**Frontend:** React, Next.js, Redux, TailwindCSS, SASS  
+**Languages:** JavaScript, TypeScript, Ruby, Java, GoLang
+**Frontend:** React, Next.js, Redux, TailwindCSS, SASS, React Native  
 **Backend:** Nest.js, Express, Ruby on Rails, Spring  
 **Databases:** PostgreSQL, MongoDB, Redis  
 **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, CloudFront), Docker, Git  
@@ -42,7 +42,7 @@ I’m a **Senior Software Engineer** at **Cimpress**, with around 7 years of exp
 
 #### Senior Software Engineer  
 **Cimpress (Remote)** — *Present*  
-Contributing to scalable systems powering the Cimpress mass customization platform, focusing on performance, usability, and maintainability.
+Contributing to scalable systems powering the Cimpress mass customisation platform, focusing on performance, usability, and maintainability.
 
 #### Software Engineer  
 **Proximity Labs (Remote)** — *Mar 2021 – Mar 2023*  
@@ -69,27 +69,6 @@ Contributing to scalable systems powering the Cimpress mass customization platfo
 - Led microservices migration saving 30–40% in server costs.  
 - **Stack:** Go, Elixir, Phoenix, Python, React
 
----
-
-### 📌 Featured Projects
-
-> Coming Soon...
-
-🚧 Building something exciting behind the scenes — stay tuned for upcoming open-source tools, side projects, and AI-enhanced productivity apps!
-
----
-
-### 🧠 Now
-
-I'm currently brushing up and deepening my skills in:
-
-- Advanced **TypeScript** patterns  
-- Mastering **Vim** workflows for engineering speed  
-- Building scalable systems with **NestJS** and **Rails**  
-- Leveling up frontend performance and UX craftsmanship  
-- Sharpening my design eye through better UI/UX practices  
-
----
 
 ### 📫 How to reach me
 
