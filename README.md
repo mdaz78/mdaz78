@@ -19,7 +19,7 @@
 
 I’m a **Senior Software Engineer** at **Cimpress**, with around 7 years of experience building scalable, elegant, and user-focused web applications. I’m deeply invested in the craft of software engineering—from fast frontends to reliable backends, with a product-driven mindset.
 
-- 🧠 Strong in **React**, **Next.js**, **TypeScript**, **Node**, **Java**, and **Ruby on Rails**
+- 🧠 Strong in **React**, **Next.js**, **React Native**, **TypeScript**, **Node**, **Go**, **Java**, and **Ruby on Rails**
 - 🔭 Previously built AI productivity tools and internal platforms used by 10k+ users
 - 🛠 Skilled at building microservices, CI/CD pipelines, and full-stack features end-to-end
 - 🎯 Passionate about clean UX, performance tuning, and delivering business impact
