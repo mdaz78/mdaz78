@@ -30,6 +30,7 @@ I’m a **Senior Software Engineer** at **Cimpress**, with around 7 years of exp
 ### 🧰 Tech Stack
 
 **Languages:** JavaScript, TypeScript, Ruby, Java, GoLang
+
 **Frontend:** React, Next.js, Redux, TailwindCSS, SASS, React Native  
 **Backend:** Nest.js, Express, Ruby on Rails, Spring  
 **Databases:** PostgreSQL, MongoDB, Redis  
