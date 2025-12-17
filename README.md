@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Abu Zafar</h1>
-<h3 align="center">Senior Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Senior Software Engineer @ Cimpress | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/mdaz78" target="_blank">
@@ -17,68 +17,78 @@
 
 ### 🚀 About Me
 
-I’m a **Senior Software Engineer** at **Cimpress**, with around 7 years of experience building scalable, elegant, and user-focused web applications. I’m deeply invested in the craft of software engineering—from fast frontends to reliable backends, with a product-driven mindset.
+I'm a **Senior Software Engineer** at **Cimpress** (Vistaprint), with over 8+ years of experience building scalable, user-focused web applications. I specialise in modern frontend technologies and have a track record of delivering high-impact products that improve productivity and reduce costs.
 
-- 🧠 Strong in **React**, **Next.js**, **React Native**, **TypeScript**, **Node**, **Go Lang**, **Java**, and **Ruby on Rails**
-- 🔭 Previously built AI productivity tools and internal platforms used by 10k+ users
-- 🛠 Skilled at building microservices, CI/CD pipelines, and full-stack features end-to-end
-- 🎯 Passionate about clean UX, performance tuning, and delivering business impact
-- 🌱 Constantly learning and pushing beyond comfort zones
+- 💼 Currently working on the **Vistaprint domain** at Cimpress, building scalable solutions for mass customization
+- 🧠 Expert in **React**, **Next.js**, **TypeScript**, **Redux**, and **Node.js**
+- 🤖 Leveraging **Cursor AI** and modern dev tools to enhance productivity
+- 🔭 Previously built **Thread.ai** (AI knowledge co-pilot, 25% productivity boost) and **Crew.ai** (workplace management for 500+ users)
+- 🎯 Passionate about clean architecture, testing, and delivering measurable business impact
+- 🌱 Always learning and staying current with the latest web technologies
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Ruby, Java, GoLang                 
-**Frontend:** React, Next.js, Redux, TailwindCSS, SASS, React Native  
-**Backend:** Nest.js, Express, Ruby on Rails, Spring  
+**Languages:** JavaScript, TypeScript, Node.js  
+**Frontend:** React, Next.js, Redux, TailwindCSS, SASS  
+**Backend:** Nest.js, Express  
+**Testing:** Jest, React Testing Library  
 **Databases:** PostgreSQL, MongoDB, Redis  
-**Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, CloudFront), Docker, Git  
-**UX & Design:** Figma, Accessibility, UI/UX principles, Design Systems
+**Tools & DevOps:** Docker, Git, Cursor AI, RabbitMQ  
+**Cloud:** AWS (S3, CloudFront, Lambda, RDS)
 
 ---
 
-### 💼 Experience
+### 💼 Professional Experience
 
-#### Senior Software Engineer  
-**Cimpress (Remote)** — *Present*  
-Contributing to scalable systems powering the Cimpress mass customisation platform, focusing on performance, usability, and maintainability.
-
-#### Software Engineer  
-**Proximity Labs (Remote)** — *Mar 2021 – Mar 2023*  
-- Built **Thread.ai**, an AI knowledge co-pilot that improved developer productivity by 25%.  
-- Developed **Crew.ai**, an automated team management tool adopted by 500+ users.  
-- Created a no-code site builder for Fintech marketing, enabling non-dev content updates.  
-- **Stack:** React, Next.js, Nest.js, TailwindCSS, TypeScript
-
-#### Software Development Engineer II  
-**IDfy (Remote)** — *Jun 2020 – Mar 2021*  
-- Engineered secure document viewer and OCR resolution workflow tools.  
-- Helped increase revenue by 5% by improving review workflows.  
-- **Stack:** Elixir, Phoenix, Redis, RabbitMQ, React
-
-#### Front End Engineer  
-**IoT Ready, Bangalore** — *Oct 2019 – May 2020*  
-- Built a performant SPA using Elm, boosting customer engagement by 15%.  
-- Delivered an internal StackOverflow-inspired knowledge tool.  
-- **Stack:** Elm, HTML, CSS
-
-#### Software Development Engineer  
-**IDfy, Mumbai** — *May 2018 – Jun 2019*  
-- Migrated OCR logic from Python to Go, enhancing processing speed.  
-- Led microservices migration saving 30–40% in server costs.  
-- **Stack:** Go, Elixir, Phoenix, Python, React
+#### **Senior Software Engineer**  
+**Cimpress (Vistaprint) — Remote** | *July 2024 - Present*  
+- Working with the **Dynamic Design Engine team**, building the core technology that enables "design once, print anywhere" capabilities across Vistaprint's product catalog
+- Led major performance optimization initiative that reduced app load time from **7 seconds to 800ms** — a 94% improvement that significantly enhanced user experience
+- Developing scalable React and Next.js applications that handle complex design rendering and manipulation across multiple print formats and substrates
+- Collaborating with cross-functional teams to deliver features that directly impact millions of customers globally
+- **Tech Stack:** React, Next.js, Redux, TypeScript, Jest, Node.js, MonoRepo, Cursor AI
 
 
-### 📫 How to reach me
+#### **Software Engineer**  
+**Proximity Labs — Remote** | *Mar 2021 – May 2024*  
+- Built **Thread.ai**, an AI-powered knowledge co-pilot that increased developer productivity by 25% and reduced costs by 30% across enterprise clients
+- Developed **Crew.ai**, a workplace management platform with automated time and leave tracking, onboarding 500+ users
+- Created a dynamically generated static website for a Fintech company, enabling marketing teams to update content without developer intervention
+- **Tech Stack:** React, Next.js, Nest.js, TypeScript, TailwindCSS
 
-- 💼 [LinkedIn](https://linkedin.com/in/mdaz78)  
-- 📧 mdabuzafar78@gmail.com  
+#### **Software Development Engineer 2**  
+**IDfy — Mumbai (Remote)** | *Jun 2020 – Mar 2021*  
+- Built a secure document viewing platform for PII data access across the organisation
+- Developed a human workflow platform that increased company revenue by 5% through improved OCR accuracy resolution
+- **Tech Stack:** JavaScript, React, Redis, RabbitMQ
+
+#### **Front End Engineer**  
+**IoT Ready — Bangalore** | *Oct 2019 – May 2020*  
+- Architected and developed a high-performance SPA that increased customer base by 15%
+- Built an internal knowledge-sharing application combining Stack Overflow concepts with team learning
+- **Tech Stack:** Elm, HTML, CSS
+
+#### **Software Development Engineer**  
+**IDfy — Mumbai** | *May 2018 – Jun 2019*  
+- Migrated OCR engine from Python to Go, reducing processing time by 500ms and improving scalability
+- Led migration of API gateway that decreased server costs by 30-40%
+- Converted monolith to microservices architecture for asynchronous data flow
+- **Tech Stack:** Go, Python, React
 
 ---
 
-### ⚡ Fun Facts
+### 📫 Let's Connect
 
-- Migrated a monolith to microservices, saving 40% in infra costs  
-- Built a FinTech marketing site where non-devs could edit content with no code  
-- Obsessively focused on performance, DX, and beautiful UI/UX
+- 💼 **LinkedIn:** [linkedin.com/in/mdaz78](https://linkedin.com/in/mdaz78)  
+- 📧 **Email:** mdabuzafar78@gmail.com  
+- 📍 **Location:** Bangalore, Karnataka, India
+
+---
+
+### ⚡ Highlights
+
+- 🚀 Improved developer productivity by **25%** with AI-powered tooling
+- 💰 Reduced infrastructure costs by **30-40%** through architecture optimization
+- 🎯 Strong focus on **testing**, **performance**, and **developer experience**
