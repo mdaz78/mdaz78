@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Abu Zafar</h1>
-<h3 align="center">Senior Software Engineer @ Cimpress | Full-Stack Developer</h3>
+<h3 align="center">Senior Software Engineer | Senior Product Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/mdaz78" target="_blank">
