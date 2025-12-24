@@ -21,7 +21,7 @@ I'm a **Senior Software Engineer** at **Cimpress** (Vistaprint), with over 8+ ye
 
 - 💼 Currently working on the **Vistaprint domain** at Cimpress, building scalable solutions for mass customization
 - 🧠 Expert in **React**, **Next.js**, **TypeScript**, **Redux**, and **Node.js**
-- 🤖 Leveraging **Cursor AI** and modern dev tools to enhance productivity
+- 🤖 Leveraging **Cursor AI** and modern AI tools to enhance productivity
 - 🔭 Previously built **Thread.ai** (AI knowledge co-pilot, 25% productivity boost) and **Crew.ai** (workplace management for startups)
 - 🎯 Passionate about clean architecture, testing, and delivering measurable business impact
 - 🌱 Always learning and staying current with the latest web technologies
