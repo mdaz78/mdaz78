@@ -30,9 +30,9 @@ I'm a **Senior Software Engineer** at **Cimpress** (Vistaprint), with over 8+ ye
 
 ### 🧰 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Node.js  
+**Languages:** JavaScript, TypeScript   
 **Frontend:** React, Next.js, Redux, TailwindCSS, SASS  
-**Backend:** Nest.js, Express  
+**Backend:** Node.js, Nest.js, Express  
 **Testing:** Jest, React Testing Library  
 **Databases:** PostgreSQL, MongoDB, Redis  
 **Tools & DevOps:** Docker, Git, Cursor AI, RabbitMQ  
