@@ -11,6 +11,9 @@
   <a href="mailto:mdabuzafar78@gmail.com">
     <img src="https://img.shields.io/badge/email-mdabuzafar78%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
   </a>
+  <a href="https://www.mdaz.dev" target="_blank">
+    <img src="https://img.shields.io/badge/website-mdaz.dev-brightgreen?style=flat&logo=google-chrome" alt="Website" />
+  </a>
 </p>
 
 ---
